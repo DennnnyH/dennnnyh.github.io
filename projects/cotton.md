@@ -1,14 +1,14 @@
----
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/12472f22-6842-4a15-ab23-a9ee24b102be" /><img width="201" height="201" alt="HIDSCI" src="https://github.com/user-attachments/assets/0d8e0feb-9542-420e-8b72-4529f4cd2776" /><img width="201" height="201" alt="image" src="https://github.com/user-attachments/assets/f105be03-5ffc-461d-8e6e-8cfc3f137458" />---
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "U.S. CO2 Emission Effects vs. North Pacific Basin Sea Surface Temperature"
+date: 2024
 published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A research project I worked on with Hawaii Data Science Instutite to draw conclusions on how United States emitted carbon dioxide has affected the sea surface temperature of the North Pacific Basin."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
