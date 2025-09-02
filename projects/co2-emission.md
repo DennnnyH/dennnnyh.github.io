@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
 title: "U.S CO2 Emissions vs. North Pacific Basin Sea Surface Temperature"
-date: 2024
+date: 2024-06-01
 published: true
 labels:
   - Python
