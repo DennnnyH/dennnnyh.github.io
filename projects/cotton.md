@@ -11,8 +11,6 @@ labels:
 summary: "A research project I worked on with Hawaii Data Science Instutite to draw conclusions on how United States emitted carbon dioxide has affected the sea surface temperature of the North Pacific Basin."
 ---
 
-<img class="img-fluid" src=""https://github.com/user-attachments/assets/12472f22-6842-4a15-ab23-a9ee24b102be">
-
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
 To give you a flavor of the game, here is an excerpt from one run:
