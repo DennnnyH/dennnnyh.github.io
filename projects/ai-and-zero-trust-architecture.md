@@ -11,7 +11,7 @@ labels:
   - Python
 
 summary: "Research project I'm working on with the Hawaii Data Science Institute under the mentorship of Curt Dodds to explore whether we can train a model on sampled network
-traffic to predict categories of network devices, ranging from students, faculty, to guests. 
+traffic to predict categories of network devices, ranging from students, faculty, to guests."
 
 ---
-The project is still work in progress
+The project is still work in progress.
