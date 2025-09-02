@@ -7,9 +7,10 @@ date: 2025-09-02
 published: true
 labels:
   - Software Engineering
-  - 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+*Committing to my future*
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+# discuss your interests in software engineering and what kinds of skills and experiences you hope to develop in the future.
+
+In a world of ever-evolving technology, software is used anywhere and everywhere to solve problems and enhance our quality of life.
