@@ -1,18 +1,17 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "U.S. CO2 Emission Effects vs. North Pacific Basin Sea Surface Temperature"
-date: 2024-05
+image: img/cotton/cotton-square.png
+title: "Cotton"
+# All dates must be YYYY-MM-DD format!
+date: 2014-04-12
 published: true
 labels:
-  - Python
-  - Jupyter Notebooks
-  - Data Visualization
-summary: "A research project I worked on with the Hawaii Data Science Institute to conclude how the United States emitted carbon dioxide has affected the sea surface temperature of the North Pacific Basin."
+  - Lisp
+  - GitHub
+summary: "A text adventure game I developed for ICS 313."
 ---
-
-<img class="img-fluid" width="650" height="200" alt="image" src="https://github.com/user-attachments/assets/ed6b4a3a-0ed4-4b60-902c-ba839ac6c0e9" />
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
