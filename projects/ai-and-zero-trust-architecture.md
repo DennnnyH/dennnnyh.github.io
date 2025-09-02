@@ -6,8 +6,9 @@ title: "Predicting Network Device Categories From Patterns In Sampled Network Tr
 date: 2025-09-01
 published: true
 labels:
+  - Research
+  - AI and Machine Learning
   - Python
-  - Jupyter Notebook
 summary: "Research project I'm working on with the Hawaii Data Science Institute under the mentorship of Curt Dodds to explore whether we can train a model on sampled network
 traffic to predict categories of network devices, ranging from students, faculty, to guests. 
 ---
