@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/HIDSCI_logo.png
+image: img/ai_and_zero_trust_architecture_logo.png
 title: "Predicting Network Device Categories From Patterns In Sampled Network Traffic"
 date: 2025-09-01
 published: true
