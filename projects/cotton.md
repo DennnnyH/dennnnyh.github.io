@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/12472f22-6842-4a15-ab23-a9ee24b102be" /><img width="201" height="201" alt="HIDSCI" src="https://github.com/user-attachments/assets/0d8e0feb-9542-420e-8b72-4529f4cd2776" /><img width="201" height="201" alt="image" src="https://github.com/user-attachments/assets/f105be03-5ffc-461d-8e6e-8cfc3f137458" />---
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/12472f22-6842-4a15-ab23-a9ee24b102be" />
 layout: project
 type: project
 image: img/cotton/cotton-square.png
