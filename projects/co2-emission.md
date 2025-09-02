@@ -17,13 +17,6 @@ summary: "Research project I worked on with the Hawaii Data Science Institute, w
 affected sea surface temperature in the North Pacific Basin."
 
 ---
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
 The goal of this research project was to develop and learn a basic skillset in data gathering, data cleaning, and data visualization through a project that could provide
 insights on how CO2 affects sea surface temperature.
 
