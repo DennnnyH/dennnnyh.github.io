@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/hidsci_logo.png
 title: "U.S CO2 Emissions vs. North Pacific Basin Sea Surface Temperature"
 date: 2024-06-01
 published: true
