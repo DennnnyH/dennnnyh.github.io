@@ -1,7 +1,7 @@
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/12472f22-6842-4a15-ab23-a9ee24b102be" />
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/12472f22-6842-4a15-ab23-a9ee24b102be" />
 title: "U.S. CO2 Emission Effects vs. North Pacific Basin Sea Surface Temperature"
 date: 2024
 published: true
