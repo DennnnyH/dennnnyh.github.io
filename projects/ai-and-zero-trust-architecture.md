@@ -14,4 +14,3 @@ traffic to predict categories of network devices, ranging from students, faculty
 
 ---
 The project is still work in progress
----
