@@ -9,8 +9,7 @@ labels:
   - Software Engineering
 ---
 
-*Committing to my future*
-
+<h1>Committing to my future</h1>
 Growing up, I was always a problem solver and critical thinker, whether it was thinking of clever arguments to convince my mom to buy the LEGO set I wanted, or it be figuring out creative ways to complete school projects with a small supply of resources. Over time, as I spent more time on the internet, the same curiosity and persistence grew into an interest in the tech world. The tech world is large and broad; however, software engineering suits my personality and strengths well. Design, build, optimize, and maintain systems that solve real-world problems. Therefore, in a world of ever-evolving technology, I see software engineering as an opportunity for me to challenge myself and grow, while creating a lasting impact to solve at least one person's problem.
 
 <h1>Interests</h1>
