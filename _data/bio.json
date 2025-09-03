@@ -50,8 +50,7 @@
       "endDate": "2025-07-25",
       "summary": "",
       "highlights": ["Designed and implemented a scalable incident management system on a SaaS, including automated workflows, SLA policies, ticket routing, and escalation rules, improving the support team efficient and incident response times."]
-    }
-  ],
+    },
     {
       "company": "Hawaii Data Science Institute",
       "position": "Student Researcher",
@@ -60,7 +59,8 @@
       "endDate": "2024-06-29",
       "summary": "",
       "highlights": ["Researched and developed models that analyzed the relationship between sea surface temperature and CO2 emissions around the North Pacific Basin via Python frameworks: xarray, matplotlib, seaborn, numpy, pandas, cmoean, and cartopy."]
-},
+}
+  ],
   "volunteer": [
     {
       "organization": "Interact Club",
