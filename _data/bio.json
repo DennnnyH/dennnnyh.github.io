@@ -40,6 +40,7 @@
       ]
     }
   ],
+  
   "work": [
     {
       "company": "UHA",
@@ -48,13 +49,9 @@
       "startDate": "2025-06-01",
       "endDate": "2025-07-25",
       "summary": "",
-      "highlights": [
-        "Designed and implemented a scalable incident management system on a SaaS, including
-automated workflows, SLA policies, ticket routing, and escalation rules, improving the
-support team efficiency and incident response times."
-      ]
-    },
-  ]
+      "highlights": ["Designed and implemented a scalable incident management system on a SaaS, including automated workflows, SLA policies, ticket routing, and escalation rules, improving the support team efficient and incident response times."]
+    }
+  ],
     {
       "company": "Hawaii Data Science Institute",
       "position": "Student Researcher",
@@ -62,10 +59,8 @@ support team efficiency and incident response times."
       "startDate": "2024-05-28",
       "endDate": "2024-06-29",
       "summary": "",
-      "highlights": [
-        "Researched and developed models that analyzed the relationship between sea surface
-temp and CO2 emissions around the North Pacific Basin via python frameworks:
-xarray, matplotlib, seaborn, numpy, pandas, cmocean, and cartopy" ]
+      "highlights": ["Researched and developed models that analyzed the relationship between sea surface temperature and CO2 emissions around the North Pacific Basin via Python frameworks: xarray, matplotlib, seaborn, numpy, pandas, cmoean, and cartopy."]
+},
   "volunteer": [
     {
       "organization": "Interact Club",
@@ -80,18 +75,4 @@ xarray, matplotlib, seaborn, numpy, pandas, cmocean, and cartopy" ]
       ]
     }
       ]
-    }
-  ],
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
-    }
-  ]
 }
