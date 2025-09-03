@@ -10,8 +10,7 @@
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "dennnnyh", "url": "http://github.com/dennnnyh" },
-      { "network": "linkedin", "username": "Denny Huang", "url": "http://linkedin.com/in/denny-h-43485424a" },
-      {"network": "instagram", "username": "dennnny.h", "url": "https://www.instagram.com/dennnny.h"}
+      { "network": "linkedin", "username": "Denny Huang", "url": "http://linkedin.com/in/denny-h-43485424a" }
     ]
   },
   "interests": [
