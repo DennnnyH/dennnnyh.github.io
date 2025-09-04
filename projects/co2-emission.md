@@ -27,4 +27,4 @@ temperatures across all oceans.
 
 You can learn more [here](https://docs.google.com/presentation/d/1VH-eTN6zS3VNW3fvUKo_MQKtMni5wi_B2swtpx5tzRU/edit?usp=drive_link).
 
-<img class="rounded float-start pe-4" src="../img/sst_visualizations.png">
+<img class="img-fluid w-100 rounded" src="../img/sst_visualizations.png" alt="Sea Surface Temperature Visualization">
