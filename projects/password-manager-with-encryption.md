@@ -12,7 +12,7 @@ labels:
 summary: "Password manager and generator with encryption and decryption"
 
 ---
-<img width="350px" height="300px" class="rounded float-start pe-4" src="../img/encryption_code.png">
+<img class="rounded float-start pe-4" src="../img/encryption_code.png">
 The goal of this coding project was to create a password manager that I could use to store passwords for a variety of websites and applications that I use.
 
 Creating a random password generator and storing everything was relatively easy. The challenging part came from implementing an encryption system where all the passwords
