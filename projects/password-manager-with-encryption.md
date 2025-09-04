@@ -21,3 +21,4 @@ process, I used Fernet to generate an encryption key and encrypt all the content
 This was a good learning experience, as I was able to work with some libraries that were new to me. Reading some documentation and using LLMs for some assistance definitely made the
 project a lot easier to manage and complete.
 
+<img class="rounded float-start pe-4" src="../img/encryption_code.png">
