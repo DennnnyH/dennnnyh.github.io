@@ -12,6 +12,7 @@ labels:
 summary: "Password manager and generator with encryption and decryption"
 
 ---
+<img width="500px" height="400px"class="rounded float-start pe-4" src="../img/encryption_code.png">
 The goal of this coding project was to create a password manager that I could use to store passwords for a variety of websites and applications that I use.
 
 Creating a random password generator and storing everything was relatively easy. The challenging part came from implementing an encryption system where all the passwords
@@ -21,4 +22,3 @@ process, I used Fernet to generate an encryption key and encrypt all the content
 This was a good learning experience, as I was able to work with some libraries that were new to me. Reading some documentation and using LLMs for some assistance definitely made the
 project a lot easier to manage and complete.
 
-<img class="rounded float-start pe-4" src="../img/encryption_code.png">
