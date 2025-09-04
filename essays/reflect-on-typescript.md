@@ -9,10 +9,10 @@ labels:
   - Software Engineering
   - Typescript
 ---
-<h3>First Impressions of TypeScript</h3>
 <p>
-  <img width="150px" height="120px" class="rounded float-start pe-4" src="../img/typescript_logo.png">
+  <img width="150px" height="130px" class="rounded float-start pe-4" src="../img/typescript_logo.png">
 </p>
+<h3>First Impressions of TypeScript</h3>
 <p>
 Before taking this course, I had only heard about Typescript. I mistakenly thought it was an all-in-one language that combined HTML, CSS, and JavaScript into a single tool for full-stack development. Boy was I wrong… It wasn’t till actually learning Typescript that I realized it was a superset of JavaScript that allowed for static typing and compiled into JavaScript. A lot of the syntax of TypeScript felt similar to that of Java, making learning the syntax relatively easy. However, this doesn’t take away from the fact that I may still periodically miss a semicolon…
 </p>
