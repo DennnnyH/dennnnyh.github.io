@@ -9,9 +9,13 @@ labels:
   - Software Engineering
   - Typescript
 ---
-<img width="100px" class="rounded float-start pe-4" src="../img/typescript_logo.png">
 <h3>First Impressions of TypeScript</h3>
+<p>
+  <img width="100px" class="rounded float-start pe-4" src="../img/typescript_logo.png">
+</p>
+<p>
 Before taking this course, I had only heard about Typescript. I mistakenly thought it was an all-in-one language that combined HTML, CSS, and JavaScript into a single tool for full-stack development. Boy was I wrong… It wasn’t till actually learning Typescript that I realized it was a superset of JavaScript that allowed for static typing and compiled into JavaScript. A lot of the syntax of TypeScript felt similar to that of Java, making learning the syntax relatively easy. However, this doesn’t take away from the fact that I may still periodically miss a semicolon…
+</p>
 
 <h3>Usefulness</h3>
 TypeScript is a popular and widely used language amongst many software engineers, particularly frontend developers. If many in the industry are using it, I wouldn’t necessarily argue that it is a bad programming language. However, in terms of personal preference, I still lean towards Python.
