@@ -25,7 +25,6 @@ I could conclude was that the U.S contributed to 14% of the global CO2 whilst on
 which the U.S emitted CO2 affected sea surface temperature in the North Pacific Basin, I came to a conclusion that the U.S definitely contributed to the rising sea surface 
 temperatures across all oceans.
 
-<img class="rounded float-start pe-4" src="../img/sst_visualizations.png">
-
-
 You can learn more [here](https://docs.google.com/presentation/d/1VH-eTN6zS3VNW3fvUKo_MQKtMni5wi_B2swtpx5tzRU/edit?usp=drive_link).
+
+<img class="rounded float-start pe-4" src="../img/sst_visualizations.png">
