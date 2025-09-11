@@ -34,3 +34,5 @@ I was able to find a non-smart question that was asked on the day of writing thi
 
 <h3>My Thoughts</h3>
 I often hear "no question is a bad question", but after reading and further understanding Eric Steven Raymond and Rick Moen, I can confidently say there are bad questions given certain contexts. In a classroom setting, where students are learning new content? It's likely harder to ask a "bad" question if the question is regarding the content because it shows engagement, and the question likely helps clarify the material for the individual and likely peers. However, in an online community such as Stack Overflow or Stack Exchange, a "bad" question can be quite common. These are usually questions that show no prior research, fail to include details that can be useful for the solution, etc. 
+
+I used ChatGPT to generate the image I used in my essay.
