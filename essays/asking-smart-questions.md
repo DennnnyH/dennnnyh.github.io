@@ -19,11 +19,11 @@ With any problem we encounter as engineers, as students, as people, we instincti
 <h3>What is a 'smart question'?</h3>
 A smart question, by the definition of Eric Steven Raymond and Rick Moen, in short, is a question that is well researched, clearly stated, precise, respectful of your reader's time, and focused on real evidence and goals. To be well-researched means you have exhausted all accessible resources available to you before confronting someone. This includes reading FAQs, doing a quick Google search, looking on Reddit, asking an LLM, etc. When you have done proper research and found no answer, write a question that states what you have already tried doing, what happened when you tried the other solutions, and how your problem relates to your larger goal. A precise question may even go further, where the user provides screenshots or any concrete evidence of errors that may be helpful to the person helping. Respecting the reader's time means writing in clear language, minimizing typos, and including concise details. By asking a smart question, you make the lives of others trying to help you much easier, and raise your chances of getting a quick and useful response.
 
-<h2>
-  <a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array">
-    Example of a smart question
-  </a>
-</h2>
+<h2>Example of a smart question</h2>
+Finding a smart question on Stack Overflow wasn't too difficult.
+<a href="https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array">
+  Here is the link to the smart question I found
+</a>
 
 
 <h3>My Thoughts</h3>
