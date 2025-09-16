@@ -14,4 +14,4 @@ summary: "Research project I'm working on with the Hawaii Data Science Institute
 traffic to predict categories of network devices, ranging from students, faculty, to guests."
 
 ---
-The project is still work in progress.
+The project is still work in progress. Currently I am working on researching NetFlows vs. Packets and digital footprinting from network traffic.
