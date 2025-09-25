@@ -12,7 +12,7 @@ labels:
   - Code Quality
 ---
 <p>
-  <img width="160px" height="140px" class="rounded float-start pe-4" src="img\coding-standard.png">
+  <img width="160px" height="140px" class="rounded float-start pe-4" src="..\img\coding-standard.png">
 </p>
 
 <h3>Initial Thoughts</h3>
