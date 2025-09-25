@@ -26,3 +26,5 @@ Learning a new coding standard isn't easy, it's similar to learning a new set of
 
 <h3>Final Thoughts</h3>
 Adopting to a new set of coding standards is frustrating at first (as I am experiencing right now), but in the long term, the benefits outweight the initial struggles. Standard creates consistency, which is directly correlated to efficiency. While getting familiar with ESLint feels frustrating because of how strict it is, it pushes me to write higher quality and cleaner code. 
+
+I used ChatGPT to generate the image I used in my essay.
