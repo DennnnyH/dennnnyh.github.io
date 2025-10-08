@@ -38,6 +38,3 @@ I often hear "no question is a bad question", but after reading and further unde
 
 
 I used ChatGPT to generate the image I used in my essay and provide a concise way of wording how a smart question was defined by Eric Steven Raymond and Rick Moen.
-
-
-test
