@@ -31,4 +31,4 @@ Being first introduced to Bootstrap not too long ago, I personally struggle with
 <h3>Closing Remarks</h3>
 Learning UI frameworks such as Bootstrap is definitely useful and is a tool I see myself using in the future whether it be in my personal side projects or professional career. As of now, I have used Bootstrap to recreate the homepage of <a href="https://pcpartpicker.com/">PCPartPickers</a>. It has definitely been very frustrating because sometimes nothing seems to be turning out the way I have it thought out to be. I look forward to becoming more skilled in Bootstrap and other UI frameworks so I can feel the satisfication of building professional looking responsive web pages efficiently.
 
-<img src="..\img\pcpartpicker.png" style="width=70%, height=40%">
+<img src="..\img\pcpartpicker.png" width=70%, height=40%>
