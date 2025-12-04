@@ -31,13 +31,14 @@ When users visit Amazon to shop, they notice all the various categories on the h
 </p>
 
 <h1> Define </h1>
+
 <p>
 
 These architectural ideas are known as design patterns. Deisgn patterns are reusable solutions to problems that appear again and again in large, complex systems. They are tested and proven pre-existing blueprints that help and guide software engineers solve recurring design patterns in their code. Instead of reinventing a solution each time a familiar problem appears, developers adapt these patterns to build software that is cleaner, more organized, and easier to extend.
 
 </p>
 
-<h1> Use Case <h1>
+<h1> Use Case </h1>
 
 <p>
 Working on my project, I haven't gotten to really thinking about use cases and implementation of design patterns in my final project. However, after gaining a stronger understanding of some of these design patterns, it is quite evident that they exist in my project even without me knowing of them previously. One important pattern that I have implemented in my web application is the observer pattern through React's useState hook. The useState hook is implemented in various parts of my application. One key implementation of the hook is the submit button on my 'Contact Us' page. The submit button relies on useState to track form input and automatically update the component when the user enters or modifies information.
