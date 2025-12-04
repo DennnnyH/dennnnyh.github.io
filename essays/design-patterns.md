@@ -43,3 +43,13 @@ Another use case of a design pattern that is implemented in my application is th
 Design patterns are tools that give structure and stability. While they may not be obvious to all, they exist underlyingly when working on an application. Design patterns help make code easier to understand, easier to scale, and more reliable. As I continue learning and building, I now see design patterns as part of the foundation for writing software.
 
 </p>
+
+
+
+
+
+<p>
+
+ChatGPT was used to help me gain a better understanding of the 23 design patterns.
+  
+</p>
