@@ -25,7 +25,7 @@ Reflect on your personal experiences with AI technologies within ICS 314. Provid
 <h1> Personal Experience with AI </h1>
 <p>Overall, I found myself using AI tools throughout the course. Below are specific examples of how I utilized AI for different course elements.</p>
 
-<h3> Experience WODs e.g. E18 </h3>
+<h3> Experience WODs</h3>
 <p>For Experience WODs, I generally tried to do them on my own. I would use ChatGPT for clarification only after I have completed the assignment or gotten completely stuck and watched the solutions video</p>
 
 <h3>In-class Practice WODs</h3>
