@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "Replacing Engineers or Assisting Engineers?"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2025-12-12
+published: true
 labels:
   - Prompt Engineering
   - Coding Assistant
@@ -13,6 +13,7 @@ labels:
 
 
 <!-- Begin with an introduction to the role of AI in education and its specific relevance to Software Engineering. Present an overview of the key concepts or tools related to AI that you have used generally and in ICS 314. Mention which AI tools you have made use of e.g. ChatGPT, Bard, Co-Pilot -->
+
 <h1> Introduction </h1>
 
 <p> Artificial Intelligence has become an increasingly prevalent tool in various fields, including education and software engineering. In the context of ICS 314, I have explored several AI tools such as ChatGPT, GitHub Copilot and Claude to assist with coding tasks, debugging, and understanding complex concepts. These tools have provided me significant assistance in my learning process and project development. However, this raises an important question: are these AI tools replacing engineers, or are they simply assisting them?
