@@ -21,8 +21,9 @@ Tool name/provider and model/version.
 Exact prompts or representative prompt iterations (redact secrets).
 Time spent on prompt engineering, generation, and verification (break out minutes per bucket).
 What portions of the responses were accepted as-is, and what required manual edits or correction? -->
-
+<p>
 <img width="150px" height="130px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
+</p>
 
 <h1> Initial Thoughts </h1>
 
@@ -30,7 +31,9 @@ What portions of the responses were accepted as-is, and what required manual edi
 Prior to this class, effort estimation was a foreign concept to me. In completing tasks, I would typically just get straight to work and work until completion without any forethought about how long it might take. However, from experience in this class, I learned that effort estimation is a critical skill in software engineering that can help with project planning, resource allocation, and setting realistic expectations by understanding the complexity of the task and personal ability to complete the task. This skill is especially important in a professional setting where deadlines are tight, where you need to communicate effectively with stakeholders, and where you need to manage your time efficiently.
 </p>
 
+<p>
 <img width="150px" height="130px" class="rounded float-start pe-4" src="../img/estimation_log.png">
+</p>
 
 <h1> Methods and Benefits </h1>
 
