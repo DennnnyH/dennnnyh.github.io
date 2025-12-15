@@ -50,3 +50,5 @@ Overall, I believe that effort estimation is a valuable skill that can benefit s
 <p>
 <img width="1000px" height="500px" class="rounded float-start pe-4" src="../img/estimation_log.png">
 </p>
+
+<br />
