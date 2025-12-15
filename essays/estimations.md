@@ -23,7 +23,7 @@ Time spent on prompt engineering, generation, and verification (break out minute
 What portions of the responses were accepted as-is, and what required manual edits or correction? -->
 <div>
 <p>
-<img width="300px" height="280px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
+<img width="300px" height="250px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
 </p>
 
 <h1> Initial Thoughts </h1>
