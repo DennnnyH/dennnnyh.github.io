@@ -32,7 +32,7 @@ Prior to this class, effort estimation was a foreign concept to me. In completin
 </p>
 
 <p>
-<img width="350px" height="330px" class="rounded float-start pe-4" src="../img/estimation_log.png">
+<img width="300px" height="430px" class="rounded float-start pe-4" src="../img/estimation_log.png">
 </p>
 
 <h1> Methods and Benefits </h1>
