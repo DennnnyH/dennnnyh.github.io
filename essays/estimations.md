@@ -11,6 +11,9 @@ labels:
   - Software Engineering
 ---
 
+
+
+
 <!-- How did you make your effort estimates? Explain your basis and any historical data you used.
 Even though your estimates were often off, did estimating in advance provide any benefit? Provide examples.
 Was tracking actual effort useful? If so, how did it inform future estimates or project decisions?
@@ -21,9 +24,9 @@ Tool name/provider and model/version.
 Exact prompts or representative prompt iterations (redact secrets).
 Time spent on prompt engineering, generation, and verification (break out minutes per bucket).
 What portions of the responses were accepted as-is, and what required manual edits or correction? -->
-<div>
+<div style="max-width: 80%; display: flex; align-items: flex-start; margin-bottom: 20px;">
 <p>
-<img width="300px" height="250px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
+<img width="300px" height="250px" style="max-width: 300px; max-height: 280px; margin-right: 20px; flex-shrink: 0;" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
 </p>
 
 <h1> Initial Thoughts </h1>
