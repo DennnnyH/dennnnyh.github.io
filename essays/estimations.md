@@ -22,7 +22,7 @@ Exact prompts or representative prompt iterations (redact secrets).
 Time spent on prompt engineering, generation, and verification (break out minutes per bucket).
 What portions of the responses were accepted as-is, and what required manual edits or correction? -->
 <p>
-<img width="200px" height="180px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
+<img width="300px" height="280px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
 </p>
 
 <h1> Initial Thoughts </h1>
@@ -47,7 +47,5 @@ I felt that estimating efforts helped me understand not only the scope of the as
 Overall, I believe that effort estimation is a valuable skill that can benefit software engineers in both their personal and professional lives. I see effort estimation as a form of time management that helps me become more efficient and effective in completing tasks. In the future, I would like to further improve my estimation skills by seeking feedback from peers or mentors, and by practicing more frequently. I would also like to explore ways to automate the tracking process using tools or software that can help me monitor my time more accurately, instead of manually recording start and end times.
 </p>
 
-
-<img width="1300px" height="500px" class="rounded float-start pe-4" src="../img/estimation_log.png">
 
 
