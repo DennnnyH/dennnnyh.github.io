@@ -22,7 +22,7 @@ Exact prompts or representative prompt iterations (redact secrets).
 Time spent on prompt engineering, generation, and verification (break out minutes per bucket).
 What portions of the responses were accepted as-is, and what required manual edits or correction? -->
 <p>
-<img width="240px" height="210px" class="rounded float-start" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
+<img width="210px" height="200px" class="rounded float-start" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
 </p>
 
 <h1> Initial Thoughts </h1>
