@@ -22,7 +22,7 @@ Exact prompts or representative prompt iterations (redact secrets).
 Time spent on prompt engineering, generation, and verification (break out minutes per bucket).
 What portions of the responses were accepted as-is, and what required manual edits or correction? -->
 <p>
-<img width="150px" height="130px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
+<img width="200px" height="180px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
 </p>
 
 <h1> Initial Thoughts </h1>
@@ -32,7 +32,7 @@ Prior to this class, effort estimation was a foreign concept to me. In completin
 </p>
 
 <p>
-<img width="150px" height="130px" class="rounded float-start pe-4" src="../img/estimation_log.png">
+<img width="350px" height="330px" class="rounded float-start pe-4" src="../img/estimation_log.png">
 </p>
 
 <h1> Methods and Benefits </h1>
