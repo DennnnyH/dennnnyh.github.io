@@ -31,12 +31,12 @@ What portions of the responses were accepted as-is, and what required manual edi
 Prior to this class, effort estimation was a foreign concept to me. In completing tasks, I would typically just get straight to work and work until completion without any forethought about how long it might take. However, from experience in this class, I learned that effort estimation is a critical skill in software engineering that can help with project planning, resource allocation, and setting realistic expectations by understanding the complexity of the task and personal ability to complete the task. This skill is especially important in a professional setting where deadlines are tight, where you need to communicate effectively with stakeholders, and where you need to manage your time efficiently.
 </p>
 
+<p>
+<img width="500px" height="330px" class="rounded float-start pe-4" src="../img/estimation_log.png">
+</p>
 
 <h1> Methods and Benefits </h1>
 
-<p>
-<img width="300px" height="430px" class="rounded float-start pe-4" src="../img/estimation_log.png">
-</p>
 
 <p>
 To make my effort estimates, I would first read the instructions and try to understand the task at hand. Then based on the instructions, I try to think of high level approaches of how I would complete the task, and reflect whether my technical skills will allow me to complete the task. Based on this reflection, I would make an estimate of how long I think it would take me to complete the task. Although my estimates were often off, estimating in advance provided several benefits. For example, it helped me prioritize tasks and allocate my time more effectively. It also helped me identify potential roadblocks or challenges that I might encounter during the task, allowing me to plan accordingly. Additionally, tracking actual effort was useful as it allowed me to compare my estimates with the actual time taken, which informed future estimates and project decisions. I tracked my actual effort using a simple spreadsheet where I recorded the start and end times for each task. While I believe my tracking was fairly accurate, there were instances where I overestimated or underestimated how difficult/easy the task ended up being.
