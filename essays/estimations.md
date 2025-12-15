@@ -11,9 +11,6 @@ labels:
   - Software Engineering
 ---
 
-
-
-
 <!-- How did you make your effort estimates? Explain your basis and any historical data you used.
 Even though your estimates were often off, did estimating in advance provide any benefit? Provide examples.
 Was tracking actual effort useful? If so, how did it inform future estimates or project decisions?
@@ -24,9 +21,8 @@ Tool name/provider and model/version.
 Exact prompts or representative prompt iterations (redact secrets).
 Time spent on prompt engineering, generation, and verification (break out minutes per bucket).
 What portions of the responses were accepted as-is, and what required manual edits or correction? -->
-<div style="max-width: 80%; display: flex; align-items: flex-start; margin-bottom: 20px;">
 <p>
-<img width="300px" height="250px" style="max-width: 300px; max-height: 280px; margin-right: 20px; flex-shrink: 0;" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
+<img width="300px" height="230px" class="rounded float-start pe-4" src="../img/programmerhumor-io-4dc07a2bcd44e9e.jpg">
 </p>
 
 <h1> Initial Thoughts </h1>
@@ -34,9 +30,7 @@ What portions of the responses were accepted as-is, and what required manual edi
 <p>
 Prior to this class, effort estimation was a foreign concept to me. In completing tasks, I would typically just get straight to work and work until completion without any forethought about how long it might take. However, from experience in this class, I learned that effort estimation is a critical skill in software engineering that can help with project planning, resource allocation, and setting realistic expectations by understanding the complexity of the task and personal ability to complete the task. This skill is especially important in a professional setting where deadlines are tight, where you need to communicate effectively with stakeholders, and where you need to manage your time efficiently.
 </p>
-</div>
 
-<div>
 <h1> Methods and Benefits </h1>
 
 <p>
@@ -52,8 +46,6 @@ I felt that estimating efforts helped me understand not only the scope of the as
 <p>
 Overall, I believe that effort estimation is a valuable skill that can benefit software engineers in both their personal and professional lives. I see effort estimation as a form of time management that helps me become more efficient and effective in completing tasks. In the future, I would like to further improve my estimation skills by seeking feedback from peers or mentors and by practicing more frequently. I would also like to explore ways to automate the tracking process using tools or software that can help me monitor my time more accurately, instead of manually recording start and end times.
 </p>
-
-</div>
 
 
 
