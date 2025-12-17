@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/ai_and_zero_trust_architecture_logo.png
 title: "Predicting Network Device Categories From Patterns In Sampled Network Traffic"
-date: 2025-12-16
+date: 2025
 published: true
 labels:
   - K-means Clustering

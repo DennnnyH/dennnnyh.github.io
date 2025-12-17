@@ -1,87 +1,96 @@
 {
-  "basics": {
-    "name": "Denny Huang",
-    "label": "Student",
-    "picture": "https://github.com/dennnnyh.png",
-    "email": "dennyh23@hawaii.edu",
-    "phone": "",
-    "website": "https://dennnnyh.github.io",
-    "summary": "I am studying for a B.S in Computer Science and a B.A in Quantitative Economics at the University of Hawaii at Manoa. I expect to graduate in the Fall of 2027.",
-    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "dennnnyh", "url": "http://github.com/dennnnyh" },
-      { "network": "linkedin", "username": "Denny Huang", "url": "http://linkedin.com/in/denny-h-43485424a" }
+    "basics": {
+        "name": "Denny Huang",
+        "label": "Student",
+        "picture": "https://github.com/dennnnyh.png",
+        "email": "dennyh23@hawaii.edu",
+        "phone": "",
+        "website": "https://dennnnyh.github.io",
+        "summary": "I am studying for a B.S in Computer Science and a B.A in Quantitative Economics at the University of Hawaii at Manoa. I expect to graduate in the Fall of 2027.",
+        "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+        "profiles": [
+            { "network": "github", "username": "dennnnyh", "url": "http://github.com/dennnnyh" },
+            { "network": "linkedin", "username": "Denny Huang", "url": "http://linkedin.com/in/denny-h-43485424a" }
+        ]
+    },
+    "interests": [
+        { "name": "Data Science" },
+        { "name": "Data Analytics" },
+        { "name": "Software Engineering" },
+        { "name": "Artificial Intelligence" },
+        { "name": "Machine Learning" }
+    ],
+    "skills": [{
+            "name": "Languages and Frameworks",
+            "keywords": ["Python", "C", "Java", "MySQL", "HTML", "CSS", "JavaScript", "TypeScript", "React", "Next.js", "Node.js",
+                "Pandas", "NumPy", "Matplotlib", "Seaborn", "Scikit-learn"
+            ]
+        },
+        {
+            "name": "Toolsets/OS",
+            "keywords": ["windowsOS", "Git/Github", "FreshService ITSM", "Jira and Confluence", "Figma", "VS Code",
+                "Jupyter Notebooks", "Anaconda", "Tableau", "Google Colab"
+            ]
+        }
+    ],
+    "education": [{
+        "institution": "University of Hawaii, Honolulu, HI",
+        "area": "Computer Science and Quantitative Economics",
+        "studyType": "B.S. and B.A.",
+        "startDate": "2023-08-26",
+        "endDate": "2027-05-01",
+        "courses": ["Data Structures & Algorithms", "Linear Algebra", "Statistics", "Intermediate Micro & Macroeconomics", "Financial Markets and Institutions", "Calculus I & II"]
+    }],
+
+    "work": [{
+            "company": "Hawaii Data Science Institute",
+            "position": "Applied AI Student Researcher",
+            "website": "",
+            "startDate": "2025-08-29",
+            "endDate": "Present",
+            "summary": "",
+            "highlights": ["Implemented a secure deterministic IP obfuscation method after comparing various techniques, successfully hashing 1.5M+ sensitive IP addresses to prevent overfitting by the model.", "Achieved 87% clustering purity and 0.73 silhouette score across 6 user roles by training a K-Means model on PCA-reduced features and visualizing clusters with t-SNE, enabling accurate user role predictions.", "Achieved 89% accuracy in predicting anomalies on network traffic data by engineering features and training a neural network, enhancing the detection of potential security threats."]
+        },
+        {
+            "company": "UHA",
+            "position": "Information Services Intern",
+            "website": "",
+            "startDate": "2025-06-01",
+            "endDate": "2025-07-25",
+            "summary": "",
+            "highlights": ["Reduced incident resolution time by 45% and improved SLA compliance to 98% by implementing a scalable SaaSincident management system, reducing ticket response and resolution time.", "Assisted in resolving 20+ ticket incidents daily by troubleshooting hardware, software, and network issues, mitigating downtime for employees.", "Created comprehensive documentation and user guides for common IT issues, reducing repeat incidents by 30% and empowering users to resolve minor issues independently."]
+        },
+        {
+            "company": "Hawaii Data Science Institute",
+            "position": "Student Researcher",
+            "website": "",
+            "startDate": "2024-05-28",
+            "endDate": "2024-06-29",
+            "summary": "",
+            "highlights": ["Engineered a high-performance data pipeline to clean and preprocess 1M+ raw global climate records, leveraging Pandas and NumPy for efficient data manipulation and establishing a normalized data foundation for downstream analysis.", "Identified a 0.82 correlation between sea surface temperature and CO2 emissions across 5+ major ocean regions by developing custom geospatial visualizations using Matplotlib and Cartopy, directly informing climate trend research.", "Communicated high-impact research findings to a diverse academic audience, including faculty, researchers, and students, to drive subsequent discussion on new departmental climate modeling initiatives."]
+        }
+    ],
+    "volunteer": [{
+            "organization": "Interact Club",
+            "website": "",
+            "position": "Vice President",
+            "startDate": "2019-08-03",
+            "endDate": "2023-05-15",
+            "summary": "",
+            "highlights": [
+                "Directed 10+ service projects and contributed 50+ volunteer hours, strengthening community engagement."
+            ]
+        },
+        {
+            "organization": "ICSpark",
+            "website": "",
+            "position": "Student Officer",
+            "startDate": "2022-08-03",
+            "endDate": "2023-05-15",
+            "summary": "",
+            "highlights": [
+                "Engaged 50+ students and achieved 90% attendance, launching a coding program at Moanalua High School and leading lessons to foster early interest in computer science."
+            ]
+        }
     ]
-  },
-  "interests": [
-    { "name": "Data Science" },
-    { "name": "Data Analytics" },
-    { "name": "Software Engineering" },
-    { "name": "Artificial Intelligence" },
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "Python", "C", "Java", "MySQL" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "windowsOS", "Git/Github", "FreshService ITSM", "Jira and Confluence"]
-    }
-  ],
-  "education": [
-    {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science and Quantitative Economics",
-      "studyType": "B.S. and B.A.",
-      "startDate": "2023-08-26",
-      "endDate": "Present",
-      "courses": ["Data Structures & Algorithms", "Linear Algebra", "Statistics", "Intermediate Micro & Macroeconomics", "Financial Markets and Institutions", "Calculus I & II"
-      ]
-    }
-  ],
-  
-  "work": [
-    {
-      "company": "Hawaii Data Science Institute",
-      "position": "Student Researcher",
-      "website": "",
-      "startDate": "2025-08-29",
-      "endDate": "Present",
-      "summary": "",
-      "highlights": ["Working on developing a predictive model that can predict the categories of network devices from patterns in sampled network traffic." ]
-    },
-    {
-      "company": "UHA",
-      "position": "Information Services Intern",
-      "website": "",
-      "startDate": "2025-06-01",
-      "endDate": "2025-07-25",
-      "summary": "",
-      "highlights": ["Designed, implemented, and deployed a scalable incident management system on a SaaS, including automated workflows, SLA policies, ticket routing, and escalation rules, improving the support team's efficiency and incident response times."]
-    },
-    {
-      "company": "Hawaii Data Science Institute",
-      "position": "Student Researcher",
-      "website": "",
-      "startDate": "2024-05-28",
-      "endDate": "2024-06-29",
-      "summary": "",
-      "highlights": ["Researched and developed models that analyzed the relationship between sea surface temperature and CO2 emissions around the North Pacific Basin via Python frameworks: xarray, matplotlib, seaborn, numpy, pandas, cmoean, and cartopy."]
-}
-  ],
-  "volunteer": [
-    {
-      "organization": "Interact Club",
-      "website": "",
-      "position": "Vice President",
-      "startDate": "2019-08-03",
-      "endDate": "2023-05-15",
-      "summary": "",
-      "highlights": [
-        "Facilitated the organization of over 10 service projects throughout 2022-2023",
-        "Contributed over 50 hours of service"
-      ]
-    }
-      ]
 }
