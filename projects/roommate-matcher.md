@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/ai_and_zero_trust_architecture_logo.png
+image: img\roomie_match.png
 title: "Roomie Matcher"
-date: 2025
+date: 2025-12
 published: true
 labels:
   - React
@@ -11,6 +11,10 @@ labels:
   - Next.js
   - Bootstrap
   - PostgreSQL
+  - TypeScript
+  - Playwright Testing
+  - Vercel Deployment
+  - Full-Stack Development
 
 summary: "Helping college students find compatible roommates through a web application that matches users based on their preferences and lifestyle choices."
 

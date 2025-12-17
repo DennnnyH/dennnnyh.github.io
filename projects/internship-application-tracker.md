@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img\gmail_logo.png
 title: "Internship Application Tracker"
-date: 2025
+date: 2025-12
 published: true
 labels:
   - iMAP

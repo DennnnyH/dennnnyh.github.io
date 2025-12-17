@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/encryption_logo.png
 title: "Password Manager with Encryption"
-date: 2025
+date: 2025-04
 published: true
 labels:
   - Python
