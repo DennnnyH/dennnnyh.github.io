@@ -49,7 +49,7 @@
             "startDate": "2025-08-29",
             "endDate": "Present",
             "summary": "",
-            "highlights": ["Implemented a secure deterministic IP obfuscation method after comparing various techniques, successfully hashing 1.5M+ sensitive IP addresses to prevent overfitting by the model.", "Achieved 87% clustering purity and 0.73 silhouette score across 6 user roles by training a K-Means model on PCA-reduced features and visualizing clusters with t-SNE, enabling accurate user role predictions.", "Achieved 0.890 accuracy in predicting anomalies on network traffic data by engineering features and training a neural network, enhancing the detection of potential security threats."]
+            "highlights": ["Implemented a secure deterministic IP obfuscation method after comparing various techniques, successfully hashing 1.5M+ sensitive IP addresses to prevent overfitting by the model.", "Achieved 87% clustering purity and 0.73 silhouette score across 6 user roles by training a K-Means model on PCA-reduced features and visualizing clusters with t-SNE, enabling accurate user role predictions.", "Achieved 0.890 accuracy in predicting anomalies on network traffic data by engineering features and training a multilayer perceptron model, enhancing the detection of potential security threats."]
         },
         {
             "company": "UHA",
